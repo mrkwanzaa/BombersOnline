@@ -11296,6 +11296,11 @@ html {
   min-height: 15rem;
 }
 
+#features {
+  background-color: #fc5b09;
+  color: #000;
+}
+
 .media-image {
   margin-bottom: 50px;
   margin-left: auto;
