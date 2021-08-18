@@ -11304,7 +11304,14 @@ html {
   width: 50%;
 }
 .insta-container {
-  margin-left: auto;
-  margin-right: auto;
   margin-top: 25px;
+}
+
+@media screen and (max-width: 768px) {
+  .instagram-media {
+    margin-left: -1.5rem !important;
+  }
+  .media-image {
+    width: 90%;
+  }
 }
